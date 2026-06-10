@@ -1,5 +1,6 @@
 import './style.css'
-import './stupid/singleton.js';
+// import './clean-code/07-tarea';
+import './code-smells/02-low-coupling';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
